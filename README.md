@@ -30,3 +30,10 @@ Resultado: Com base nos dados, estratégias podem ser implementadas para melhora
 
 Conclusão
 Os resultados da análise oferecem uma visão clara sobre como cada fonte de tráfego está contribuindo para o desempenho geral da campanha. Esse tipo de análise não só ajuda na avaliação de campanhas passadas, mas também fornece uma base sólida para decisões estratégicas em campanhas futuras, permitindo um uso mais eficaz do orçamento de marketing e um foco maior em canais que demonstram alto potencial de conversão.
+
+![image](https://github.com/user-attachments/assets/a0744a0e-10d4-4fa0-9b79-98febb61d9b9)
+![image](https://github.com/user-attachments/assets/6e769431-babf-48ca-8df5-af39e6f00832)
+![image](https://github.com/user-attachments/assets/15ee5b8c-2e75-43ab-a9b3-a0ddad332ecb)
+
+
+
